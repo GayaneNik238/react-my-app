@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GayaneNik238/react-my-app/static/css/main.f4c24edc.chunk.css",
+    "main.js": "/GayaneNik238/react-my-app/static/js/main.65b3136d.chunk.js",
+    "main.js.map": "/GayaneNik238/react-my-app/static/js/main.65b3136d.chunk.js.map",
+    "runtime-main.js": "/GayaneNik238/react-my-app/static/js/runtime-main.e8ea1067.js",
+    "runtime-main.js.map": "/GayaneNik238/react-my-app/static/js/runtime-main.e8ea1067.js.map",
+    "static/js/2.96e729cf.chunk.js": "/GayaneNik238/react-my-app/static/js/2.96e729cf.chunk.js",
+    "static/js/2.96e729cf.chunk.js.map": "/GayaneNik238/react-my-app/static/js/2.96e729cf.chunk.js.map",
+    "static/js/3.1c083ae5.chunk.js": "/GayaneNik238/react-my-app/static/js/3.1c083ae5.chunk.js",
+    "static/js/3.1c083ae5.chunk.js.map": "/GayaneNik238/react-my-app/static/js/3.1c083ae5.chunk.js.map",
+    "index.html": "/GayaneNik238/react-my-app/index.html",
+    "static/css/main.f4c24edc.chunk.css.map": "/GayaneNik238/react-my-app/static/css/main.f4c24edc.chunk.css.map",
+    "static/js/2.96e729cf.chunk.js.LICENSE.txt": "/GayaneNik238/react-my-app/static/js/2.96e729cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8ea1067.js",
+    "static/js/2.96e729cf.chunk.js",
+    "static/css/main.f4c24edc.chunk.css",
+    "static/js/main.65b3136d.chunk.js"
+  ]
+}
