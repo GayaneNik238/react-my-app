@@ -5,7 +5,9 @@ import Bye from './Bye'
 function App() {
   let name = 'Hayk';
   const surname = "Doe";
-  const id = '2'
+  const id = '2';
+  let smattr = 'aaaa';
+  let aa = 34
   return (
     <div className="App">
         <Header />
